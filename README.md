@@ -6,8 +6,8 @@ My first contact with this field was in 2009 when I used to make templates for T
 🌱 I’m currently learning ReactJS but always go back to remember the fundamentals
 
 📫 You can find me at:
-[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
-[Instagram](https://www.instagram.com/foradozona/)
+•[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
+•[Instagram](https://www.instagram.com/foradozona/)•
 
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 <!--
