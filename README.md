@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+✨ I'm Juliara Vasconcelos from Brazil. I've started my learning journey in front end development this year but I've already have a lot to show. 
+My first contact with this field was in 2009 when I used to make templates for Tumblr Pages only using HTML and CSS (and eventually bootstrap, when I discovered it).
+
+🌱 I’m currently learning ReactJS but always go back to remember the fundamentals
+
+📫 You can find me at:
+[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
+[Instagram](https://www.instagram.com/foradozona/)
+
+⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 <!--
 **JuliaraVasconcelos/JuliaraVasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
