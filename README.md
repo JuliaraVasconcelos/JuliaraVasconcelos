@@ -11,6 +11,8 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaraVasconcelos)](https://github.com/anuraghazra/github-readme-stats)
+
 ━━━━━━◇◆◇━━━━━━
 
 ✨ Comecei a estudar FrontEnd esse ano, mas já tenho muito a mostrar. Meu primeiro contato com a área foi por volta de 2009 quando comecei a montar templates para páginas do Tumblr em HTML e CSS (e às vezes bootstrap, quando descobri que existia).
