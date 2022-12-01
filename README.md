@@ -15,6 +15,13 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ━━━━━━◇◆◇━━━━━━
 
 ✨ Comecei a estudar FrontEnd esse ano, mas já tenho muito a mostrar. Meu primeiro contato com a área foi por volta de 2009 quando comecei a montar templates para páginas do Tumblr em HTML e CSS (e às vezes bootstrap, quando descobri que existia).
