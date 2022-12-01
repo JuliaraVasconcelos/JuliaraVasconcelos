@@ -11,15 +11,11 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaraVasconcelos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=JuliaraVasconcelos&show_icons=true&theme=tokyonight)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight)" />
 </a>
 
 ━━━━━━◇◆◇━━━━━━
@@ -46,4 +42,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaraVasconcelos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
