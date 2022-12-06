@@ -9,6 +9,8 @@ My first contact with this field was in 2009 when I used to make templates for T
 •[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
 •[Instagram](https://www.instagram.com/foradozona/)•
 
+💬 Email me: juliaravasconcelos@gmail.com
+
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +29,8 @@ My first contact with this field was in 2009 when I used to make templates for T
 📫 Você pode me encontrar aqui:
 •[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
 •[Instagram](https://www.instagram.com/foradozona/)•
+
+💬 Meu email: juliaravasconcelos@gmail.com
 
 ⚡ Fun fact: Sou Designer de Produto e amo a cultura japonesa!
 <!--
