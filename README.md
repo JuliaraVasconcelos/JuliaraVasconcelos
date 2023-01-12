@@ -19,6 +19,7 @@ My first contact with this field was in 2009 when I used to make templates for T
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight" />
 </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ━━━━━━◇◆◇━━━━━━
 
