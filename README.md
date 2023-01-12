@@ -13,13 +13,13 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JuliaraVasconcelos/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliaraVasconcelos&show_icons=true&theme=tokyonight&text_bold=false" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JuliaraVasconcelos/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact&theme=tokyonight" />
 </a>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaraVasconcelos&layout=compact)](https://github.com/JuliaraVasconcelos/github-readme-stats)
+
 
 ━━━━━━◇◆◇━━━━━━
 
