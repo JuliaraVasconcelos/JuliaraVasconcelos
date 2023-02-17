@@ -14,7 +14,7 @@ My first contact with this field was in 2009 when I used to make templates for T
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/136/136528.png)](https://cdn-icons-png.flaticon.com/512/136/136528.png](https://cdn-icons-png.flaticon.com/512/136/136528.png)" />
+  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />
   </div>
 
 ━━━━━━◇◆◇━━━━━━
