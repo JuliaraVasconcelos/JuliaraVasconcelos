@@ -5,23 +5,26 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 🌱 I’m currently learning ReactJS but always go back to remember the fundamentals.
 
-📫 You can find me at:
-•[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
-•[Instagram](https://www.instagram.com/foradozona/)•
-
-💬 Email me: juliaravasconcelos@gmail.com
-
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
-<div style="display: inline_block"><br>
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/136/136527.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/9423/9423300.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/136/136530.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
-  </div>
+<div>
+<span>📫 You can find me at: </span>
+  <a href="https://www.linkedin.com/in/juliaravasconcelos/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671877.png"></a>
+  <a href="https://www.instagram.com/foradozona/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a> 
+</div>
+<div>
+<span>💬 Email me: </span> 
+<a href="mailto:juliaravasconcelos@gmail.com"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671872.png"></a></div>
 
-━━━━━━◇◆◇━━━━━━
+<div style="display: inline_block"><br>
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136527.png" />
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/9423/9423300.png" />
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136530.png" />
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
+ </div>
+
+## 
 
 ✨ Comecei a estudar FrontEnd em 2022, mas já tenho muito a mostrar. Meu primeiro contato com a área foi por volta de 2009 quando comecei a montar templates para páginas do Tumblr em HTML e CSS (e às vezes bootstrap, quando descobri que existia).
 
