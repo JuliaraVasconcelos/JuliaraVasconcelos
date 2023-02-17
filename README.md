@@ -14,10 +14,10 @@ My first contact with this field was in 2009 when I used to make templates for T
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
 <div style="display: inline_block"><br>
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/3755/3755130.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/1045/1045906.png" />
+  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />
+  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2306/2306041.png" />
   <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/9423/9423300.png" />
-  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/8945/8945581.png" />
+  <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/136/136530.png" />
   <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
   </div>
 
