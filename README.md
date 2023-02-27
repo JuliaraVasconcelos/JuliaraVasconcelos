@@ -17,10 +17,12 @@ My first contact with this field was in 2009 when I used to make templates for T
 <a href="mailto:juliaravasconcelos@gmail.com"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671872.png"></a></div>
 
 <div style="display: inline_block"><br>
+  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136535.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136527.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/9423/9423300.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136530.png" />
+  <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/8532/8532714.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
  </div>
 
