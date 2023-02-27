@@ -30,11 +30,14 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 🌱 Atualmente estou estudando ReactJS, mas sempre volto para relembrar os fundamentos.
 
-📫 Você pode me encontrar aqui:
-•[LinkedIn](https://www.linkedin.com/in/juliaravasconcelos/)
-•[Instagram](https://www.instagram.com/foradozona/)•
-
-💬 Meu email: juliaravasconcelos@gmail.com
+<div>
+<span>📫 Onde você pode me encontrar: </span>
+  <a href="https://www.linkedin.com/in/juliaravasconcelos/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671877.png"></a>
+  <a href="https://www.instagram.com/foradozona/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a> 
+</div>
+<div>
+<span>💬 Contato: </span> 
+<a href="mailto:juliaravasconcelos@gmail.com"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671872.png"></a></div>
 
 ⚡ Fun fact: Sou Designer de Produto e amo a cultura japonesa!
 <!--
