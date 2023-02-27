@@ -25,6 +25,8 @@ My first contact with this field was in 2009 when I used to make templates for T
   <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/8532/8532714.png" />
   <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
  </div>
+ 
+ ![snake gif](https://github.com/JuliaraVasconcelos/JuliaraVasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 ## 
 
