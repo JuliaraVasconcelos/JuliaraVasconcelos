@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-✨ I'm Juliara Vasconcelos from Brazil. I've started my learning journey in front end development in 2022 but I've already have a lot to show. 
-My first contact with this field was in 2009 when I used to make templates for Tumblr Pages only using HTML and CSS (and eventually bootstrap, when I discovered it).
+✨ I'm Juliara Vasconcelos and I'm trying to get back to IT.
 
-🌱 I’m currently learning ReactJS but always go back to remember the fundamentals.
+🌱 I’m currently learning Angular and a few things on QA.
 
 ⚡ Fun fact: I'm a Product Designer who loves japanese culture!
 
 <div>
 <span>📫 You can find me at: </span>
   <a href="https://www.linkedin.com/in/juliaravasconcelos/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671877.png"></a>
-  <a href="https://www.instagram.com/foradozona/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a> 
 </div>
 <div>
 <span>💬 Email me: </span> 
@@ -31,12 +29,11 @@ My first contact with this field was in 2009 when I used to make templates for T
 
 ✨ Comecei a estudar FrontEnd em 2022, mas já tenho muito a mostrar. Meu primeiro contato com a área foi por volta de 2009 quando comecei a montar templates para páginas do Tumblr em HTML e CSS (e às vezes bootstrap, quando descobri que existia).
 
-🌱 Atualmente estou estudando ReactJS, mas sempre volto para relembrar os fundamentos.
+🌱 Atualmente estou estudando Angular e algumas coisas de QA.
 
 <div>
 <span>📫 Onde você pode me encontrar: </span>
   <a href="https://www.linkedin.com/in/juliaravasconcelos/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671877.png"></a>
-  <a href="https://www.instagram.com/foradozona/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a> 
 </div>
 <div>
 <span>💬 Contato: </span> 
